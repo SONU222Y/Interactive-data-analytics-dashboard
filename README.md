@@ -6,7 +6,7 @@ A Streamlit-based interactive dashboard that allows users to explore, filter, an
 
 ## 🚀 Live App
 
-👉 interactive-data-analytics-dashboard-otqs8e4qtb6utslxdadbm4.stramlit.app
+👉  https://interactive-data-analytics-dashboard-otqs8e4qtb6utslxdadbm4.streamlit.app
 
 
 ---
