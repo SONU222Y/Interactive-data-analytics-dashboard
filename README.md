@@ -18,7 +18,7 @@ A Streamlit-based interactive dashboard that allows users to explore, filter, an
 
 ### 🔎 Search Feature
 
-![Search](Search by name .png)
+![Search](Search_by_name.png)
 
 ---
 
